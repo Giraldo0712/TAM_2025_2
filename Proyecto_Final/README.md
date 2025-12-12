@@ -1,5 +1,8 @@
 # Predicción de Fallas en Redes Eléctricas y Asistente Técnico Inteligente (Agentic RAG)
 
+**Hecho por:
+* Ismael Cortes Ramirez
+* Juan Camilo Giraldo Jimenez
 Este proyecto implementa una solución de Inteligencia Artificial híbrida para la gestión de activos de distribución eléctrica. Combina modelos de Deep Learning Tabular (**TabNet**) para la predicción de indisponibilidad (UITI) con un sistema de **Agentes Inteligentes (RAG)** para la consulta automatizada de normativa técnica.
 
 ## ⚡ 1. Descripción del Problema
