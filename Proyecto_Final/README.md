@@ -44,8 +44,7 @@ El modelo TabNet reveló que las variables meteorológicas tienen un impacto sup
 
 El sistema autónomo generó el siguiente diagnóstico y recomendaciones técnicas sin intervención humana:
 
-<img width="1208" height="515" alt="Salida Agentes" src="https://github.com/user-attachments/assets/8760727a-3759-4883-aab9-ca216695e4dc" />
-
+<img width="1283" height="627" alt="Salida_mejorada_agentes" src="https://github.com/user-attachments/assets/4c80345a-028e-480b-a956-dd27912fca10" />
 
 ##  6. Ejecución
 El código completo se encuentra en el archivo `.ipynb` de este repositorio. Fue desarrollado y ejecutado en **Kaggle** para aprovechar la aceleración por GPU.
