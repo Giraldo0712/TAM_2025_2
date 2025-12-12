@@ -15,8 +15,8 @@ Las interrupciones en el servicio de energía eléctrica generan pérdidas econ�
 ## 📚 2. Recursos y Estado del Arte
 Este desarrollo toma como referencia la metodología propuesta en el estado del arte sobre gestión de activos en redes eléctricas.
 
-* **📄 Paper de Referencia:** [Paper_AI_CHECUNAL.pdf]((https://github.com/amalvarezme/AprendizajeMaquina/blob/main/Paper_AI_CHECUNAL.pdf))
-* **💾 Base de Datos:** [PowerGrid Assets ML Dataset en Kaggle]((https://www.kaggle.com/datasets/cristiancamiloo/powergrid-assets-ml-dataset/data/data/data))
+* **📄 Paper de Referencia:** [Paper_AI_CHECUNAL.pdf]([(https://github.com/amalvarezme/AprendizajeMaquina/blob/main/Paper_AI_CHECUNAL.pdf)])
+* **💾 Base de Datos:** [PowerGrid Assets ML Dataset en Kaggle]([(https://www.kaggle.com/datasets/cristiancamiloo/powergrid-assets-ml-dataset/data/data/data)])
 * **📘 Documentación Técnica:** [Reglamento de Redes Aéreas MT](UBICADO_EN_EL_REPOSITORIO)
 
 ## 🛠️ 3. Metodología Implementada
