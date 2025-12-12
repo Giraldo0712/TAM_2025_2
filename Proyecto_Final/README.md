@@ -11,9 +11,9 @@ Las interrupciones en el servicio de energía eléctrica generan pérdidas econ�
 ## 📚 2. Recursos y Estado del Arte
 Este desarrollo toma como referencia la metodología propuesta en el estado del arte sobre gestión de activos en redes eléctricas.
 
-* **📄 Paper de Referencia:** [Título del Paper que te dio el profe](LINK_DEL_PAPER)
-* **💾 Base de Datos:** [PowerGrid Assets ML Dataset en Kaggle](LINK_A_LA_BASE_DE_DATOS_EN_KAGGLE)
-* **📘 Documentación Técnica:** [Reglamento de Redes Aéreas MT](LINK_AL_PDF_SI_ESTA_ONLINE_O_PONER_QUE_ESTA_EN_EL_REPO)
+* **📄 Paper de Referencia:** [Paper_AI_CHECUNAL.pdf]((https://github.com/amalvarezme/AprendizajeMaquina/blob/main/Paper_AI_CHECUNAL.pdf))
+* **💾 Base de Datos:** [PowerGrid Assets ML Dataset en Kaggle]((https://www.kaggle.com/datasets/cristiancamiloo/powergrid-assets-ml-dataset/data/data/data))
+* **📘 Documentación Técnica:** [Reglamento de Redes Aéreas MT](UBICADO_EN_EL_REPOSITORIO)
 
 ## 🛠️ 3. Metodología Implementada
 
@@ -31,7 +31,8 @@ Se diseñó un sistema Multi-Agente orquestado con **LangChain** y **Google Flan
 
 ### Importancia de Variables (Feature Importance)
 El modelo TabNet reveló que las variables meteorológicas tienen un impacto superior a la antigüedad de los equipos.
-*(Pega aquí tu captura de la gráfica de barras)*
+<img width="727" height="488" alt="Feature Importance" src="https://github.com/user-attachments/assets/38a6a88b-94a5-46ee-81f6-d202170cb6f7" />
+
 ![Feature Importance](assets/grafica_feature_importance.png)
 
 > **Conclusión:** La presión atmosférica y la velocidad del viento son los precursores más fuertes de fallas, sugiriendo que la mayoría de eventos son causados por condiciones climáticas exógenas.
@@ -40,7 +41,8 @@ El modelo TabNet reveló que las variables meteorológicas tienen un impacto sup
 
 El sistema autónomo generó el siguiente diagnóstico y recomendaciones técnicas sin intervención humana:
 
-*(Pega aquí la captura de la salida final con los dos reportes: Seguridad y Materiales)*
+<img width="1208" height="515" alt="Salida Agentes" src="https://github.com/user-attachments/assets/8760727a-3759-4883-aab9-ca216695e4dc" />
+
 ![Salida Agentes](assets/salida_agentes.png)
 
 ## 💻 6. Ejecución
