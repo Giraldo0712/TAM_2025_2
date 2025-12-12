@@ -33,7 +33,6 @@ Se diseñó un sistema Multi-Agente orquestado con **LangChain** y **Google Flan
 El modelo TabNet reveló que las variables meteorológicas tienen un impacto superior a la antigüedad de los equipos.
 <img width="727" height="488" alt="Feature Importance" src="https://github.com/user-attachments/assets/38a6a88b-94a5-46ee-81f6-d202170cb6f7" />
 
-![Feature Importance](assets/grafica_feature_importance.png)
 
 > **Conclusión:** La presión atmosférica y la velocidad del viento son los precursores más fuertes de fallas, sugiriendo que la mayoría de eventos son causados por condiciones climáticas exógenas.
 
@@ -43,7 +42,6 @@ El sistema autónomo generó el siguiente diagnóstico y recomendaciones técnic
 
 <img width="1208" height="515" alt="Salida Agentes" src="https://github.com/user-attachments/assets/8760727a-3759-4883-aab9-ca216695e4dc" />
 
-![Salida Agentes](assets/salida_agentes.png)
 
 ## 💻 6. Ejecución
 El código completo se encuentra en el archivo `.ipynb` de este repositorio. Fue desarrollado y ejecutado en **Kaggle** para aprovechar la aceleración por GPU.
